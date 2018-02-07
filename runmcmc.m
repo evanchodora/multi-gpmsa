@@ -1,5 +1,5 @@
 % commands to run the Multivariate example...
-addpath('../code')
+addpath('code')
 
 % read data
 dat=fd(1:2);
